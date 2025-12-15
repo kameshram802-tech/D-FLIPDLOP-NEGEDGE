@@ -67,7 +67,7 @@ Developed by: Kamesh.A RegisterNumber: 25017583
 
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
-<img width="1313" height="367" alt="image" src="https://github.com/user-attachments/assets/d660c8fd-0fce-416d-8509-ce8806d4dbe6" />
+![image](https://github.com/user-attachments/assets/4ddec297-8a03-4d92-8601-826a237273b1)
 
 
 **RESULTS**
